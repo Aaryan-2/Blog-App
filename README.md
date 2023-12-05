@@ -28,7 +28,7 @@ MySQL
 ## Installation:
 Clone the repository:
 
-git clone https://github.com/your-username/blog-app.git
+git clone [https://github.com/your-username/blog-app.git](https://github.com/Aaryan-2/Blog-App/blob)
 Navigate to the project directory:
 
 cd blog-app
