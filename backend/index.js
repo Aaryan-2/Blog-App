@@ -5,6 +5,7 @@ import postRoutes from "./routes/posts.js";
 import cookieParser from "cookie-parser";
 import multer from "multer";
 
+
 const app = express();
 
 app.use(express.json());
